@@ -1,0 +1,4 @@
+# Paste nội dung file "Tài liệu.pdf" vào đây
+# Sau đó tôi sẽ đọc và phân tích
+
+[Paste nội dung PDF ở đây...]
